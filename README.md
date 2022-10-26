@@ -1,4 +1,3 @@
-# MAD_Project-Vikings
 
 # Team Name - Vikings
 # Batch - Y2S2 Malabe 2.2
