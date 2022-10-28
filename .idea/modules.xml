@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MAD_Project-Vikings.iml" filepath="$PROJECT_DIR$/.idea/MAD_Project-Vikings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Project_Vikings.iml" filepath="$PROJECT_DIR$/.idea/modules/Project_Vikings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Project_Vikings.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Project_Vikings.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Project_Vikings.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Project_Vikings.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Project_Vikings.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Project_Vikings.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Project_Vikings.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Project_Vikings.app.unitTest.iml" />
     </modules>
   </component>
 </project>
