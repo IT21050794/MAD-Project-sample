@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864239405350",
+    "project_id": "vikings-e5699",
+    "storage_bucket": "vikings-e5699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864239405350:android:50441866db1bdc587259e7",
+        "android_client_info": {
+          "package_name": "com.example.project_vikings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864239405350-hep2q52t2s3nc7soff6enl1j1pk1s65r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUyBqDMUfGzXrlR2D9DUEfVK-8B6mpn2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864239405350-hep2q52t2s3nc7soff6enl1j1pk1s65r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
